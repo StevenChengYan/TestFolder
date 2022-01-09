@@ -1,9 +1,2 @@
 a
 b
-c
-<<<<<<< HEAD
-d
-=======
-d
-e
->>>>>>> remotes/origin/main
