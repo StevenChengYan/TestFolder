@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+b
+=======
 a
 c
+>>>>>>> remotes/origin/main
